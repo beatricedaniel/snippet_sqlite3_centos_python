@@ -1,0 +1,1 @@
+# snippet_sqlite3_centos_python
